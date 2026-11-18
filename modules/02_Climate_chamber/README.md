@@ -66,7 +66,7 @@ Additional assembly notes:
 ## 02.2 Reservoir assembly 
 Below, pictures of the assembly and the exploded view with the parts list are shown.
 
-<img src = "images/02.2_Reservoir/Reservoir Isometric front right.png.png" width = "1000">
+<img src = "images/02.2_Reservoir/Reservoir Isometric front right.png" width = "1000">
 
 <img width="545" height="707" alt="image" src="https://github.com/user-attachments/assets/b3df8fdf-7a96-4fcb-a1b3-89d00ead665a" />
 
