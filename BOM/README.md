@@ -1,5 +1,5 @@
 # Bill-Of-Materials
-As already mentioned in the general overview [ReadMe](../README.md), the Bill of Materials is the leading document inside this repository. Within the BOM, all the information can be found for all the specific parts. Here, it will be explained what all can be found inside the BOM and how the BOM is structured and should be read.
+As already mentioned in the general overview [ReadMe](../README.md), the Bill of Materials is the leading document inside this repository. Within the BOM, all the information can be found for all the specific parts. The BOM is supplied in Excel and CSV format. Here, it will be explained what all can be found inside the BOM and how the BOM is structured and should be read.
 
 The BOM has the following 4 tabs:
 - BOM
