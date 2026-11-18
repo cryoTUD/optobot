@@ -44,7 +44,7 @@ With the general structure of the BOM shown and explained, an example of all the
 
 In the example, a door magnet is shown that is used inside the climate chamber module with module number 02. The door magnet is a purchased part, and 2 pieces are used. In the sourcing section, a possible supplier is provided where this type of magnet can be ordered. In the cost section, the price of these magnets at the source shown is then provided. Finally, there are some additional notes supplied for assembly. In this case, no CAD file was available, so a rough placeholder file was created and used in the assembly. This placeholder file does not match the dimensions of the actual part. 
 
-** Summary tab
+## Summary tab
 
 In the summary tab, an overview is provided of the total number of parts used per module, along with the total costs. Below is a picture showing how that actual summary looks inside the BOM.
 
@@ -57,3 +57,6 @@ In addition to the module overview, in the summary tab also a summary is created
 <img width="1783" height="292" alt="image" src="https://github.com/user-attachments/assets/27b32fce-a0e5-4a7e-98d6-752136ebd523" />
 
 _Image taken of the BOM summary tab on 18-11-2026_
+
+## ReadMe and Lists tabs
+Inside the BOM, an individual ReadMe is also supplied. Inside that Readme is described in detail how the BOM file works along with how it should be used. The ReadMe additionally describes the content of the columns. On the 4th tab, there are several lists created. These lists work as input to the drop-down menus. All the things written down in these lists appear as options in the drop-down menus inside the columns of the BOM tab. By adding things to these lists, one can add options to the drop-down menus.
