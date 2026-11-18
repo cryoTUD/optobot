@@ -62,3 +62,50 @@ Additional assembly notes:
 - The humidifier chamber should be hanging at a lower height than the reservoir, so that water will flow naturally from the reservoir into the humidifier chamber.
 - The humidifier is directly bolted onto the support structure. For that, use a nut from the company item that fits in the profile grooves of the support structure.
 - The round horizontal chamber divider is glued onto the vertical chamber divider.
+
+## 02.2 Reservoir assembly 
+Below, pictures of the assembly and the exploded view with the parts list are shown.
+
+<img src = "images/02.2_Reservoir/Reservoir Isometric front right.png.png" width = "1000">
+
+<img width="545" height="707" alt="image" src="https://github.com/user-attachments/assets/b3df8fdf-7a96-4fcb-a1b3-89d00ead665a" />
+
+The reservoir functions as a water buffer for the humidifier chamber. The left pneumatic fitting of the reservoir is connected to the left fitting of the humidifier chamber. The right fitting should be connected to the top fitting of the lever assembly. 
+
+### Assembly instructions: 02.2 Reservoir assembly
+For the Reservoir, an assembly animation is also created that, as a starting point, has an exploded view.
+
+https://github.com/user-attachments/assets/516a6615-aac3-44d8-8ae3-a94d0cff1f9b
+
+Additional assembly notes:
+- The Reservoir is directly bolted onto the support structure. For that, use a nut from the company item that fits in the profile grooves of the support structure.
+- Before mounting the pneumatic fitting, first tap the humidifier holes to recreate the thread. Then the pneumatic fittings can be screwed on.
+- The reservoir should at all times be mounted higher than the humidifier chamber for easy water flow.
+- The reservoir window is glued onto the reservoir.
+
+  ## 02.3 Valve assembly
+Below, pictures of the assembly and the exploded view with the parts list are shown.
+
+<img src = "images/02.3_Valve_assembly/Valve Assembly Isometric.png" width = "1000">
+
+<img width="701" height="720" alt="image" src="https://github.com/user-attachments/assets/ec9ade67-b050-4ddb-8bbf-aa72c04ac4f9" />
+
+The valve assembly is used to control whether the reservoir is connected to the humidifier chamber, or whether the 60 ml filling syringe is connected to the humidifier chamber or reservoir. To the top pneumatic fitting of the valve assembly, the reservoir is connected. To the bottom, the humidifier is connected. To the right, the 60 mL filling syringe is connected, which is used for refilling the reservoir and/or the humidifier chamber.
+
+The lever can then be used to control which of these three are connected to one another. The line marking on the lever near the rotation point can be used as an indicator for which parts are connected. In the provided picture of the assembly, the line marking on the lever currently connects the top and bottom pneumatic fittings. In practice, those fittings are actually connected, meaning that the reservoir is now connected to the humidifier chamber. When one rotates the lever 90 degrees clockwise, the markings on the lever indicate that the top fitting and the right fittings are connected. And again, this is the case in practice. In this orientation of the lever, the valve connects the filling syringe to the reservoir. Now, in this orientation, the reservoir can be refilled.
+
+In order to refill, first fill up the syringe. Then connect to the pneumatic hose that is connected to the right pneumatic fitting of the valve assembly. Finally, squeeze the syringe so that all the water is pushed through the valve assembly into the reservoir. 
+
+### Assembly instruction: 02.3 Valve assembly
+For the Valve assembly, a brief assembly animation is also provided.
+
+https://github.com/user-attachments/assets/ca17331e-6bc2-4e7a-b17e-d60c719e5bf6
+
+Additional assembly notes:
+- The casing of the valve is directly bolted onto the support structure. For that, use a nut from the company item that fits in the profile grooves of the support structure.
+- Before mounting the pneumatic fitting, first tap the humidifier holes to recreate the thread. Then the pneumatic fittings can be screwed on.
+- The lever is bolted onto the 3-way valve
+
+
+
+
