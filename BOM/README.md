@@ -41,3 +41,19 @@ Finally, there is a set of checkboxes that mark what kind of CAD file it is. As 
 With the general structure of the BOM shown and explained, an example of all the information supplied for a single part can be seen in the picture below:
 
 <img src= "../docs/BOM_one_part_line_example.png" width = "1000">
+
+In the example, a door magnet is shown that is used inside the climate chamber module with module number 02. The door magnet is a purchased part, and 2 pieces are used. In the sourcing section, a possible supplier is provided where this type of magnet can be ordered. In the cost section, the price of these magnets at the source shown is then provided. Finally, there are some additional notes supplied for assembly. In this case, no CAD file was available, so a rough placeholder file was created and used in the assembly. This placeholder file does not match the dimensions of the actual part. 
+
+** Summary tab
+
+In the summary tab, an overview is provided of the total number of parts used per module, along with the total costs. Below is a picture showing how that actual summary looks inside the BOM.
+
+<img width="1650" height="475" alt="image" src="https://github.com/user-attachments/assets/0b8a63ba-dd0d-4356-b47a-e6b78b44da8e" />
+
+_Image taken of the BOM summary tab on 18-11-2026_
+
+In addition to the module overview, in the summary tab also a summary is created that summarizes the costs and parts used per added functionality. Below is a picture showing how that cost summary per added functionality looks inside the BOM.
+
+<img width="1783" height="292" alt="image" src="https://github.com/user-attachments/assets/27b32fce-a0e5-4a7e-98d6-752136ebd523" />
+
+_Image taken of the BOM summary tab on 18-11-2026_
