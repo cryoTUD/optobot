@@ -42,3 +42,14 @@ To also better explain the details of the humidifier menu (humid), another pictu
 <img src= "../control/firmware/Images/climate_display.png" width = "1000"> 
 
 When selecting the humid menu on the top LCD, the user is moved into the humidifier menu. At that very moment, a cursor appears on the bottom LCD screen which helps the used navigating the humidifier menu. Inside the humidifier menu, the user can control the state of the humidifier fan, and the user can set the humidity target level. By selecting the back button on the menu, the user can move back into the plunger menu on the top LCD.
+
+
+
+# Wiring diagrams
+There are 2 separate wiring diagrams. One is the wiring diagram of the control box and how it is connected to the entire plunger setup and its components. The other is the wiring diagram of the PID box and the temperature-controlled cup. The wiring diagrams are created in Draw.io, which is an open-source flowchart maker. In doing so it is ensured that anybody, at all times can modify or update the wiring diagram if required. The wiring diagrams are provided both as a PNG and as the original Draw.io file. The wiring diagram files can be found in the [wiring](../control/wiring) folder. Below, the PNGs of the wiring diagrams are shown. For clarity, the diagrams make use of pictures of the actual electronic components inside the setup where the wires are visually connected to the pins. At some places also specific part numbers are denoted inside the diagrams which indicate which parts of the BOM are specifically used at that location.
+
+## Optobot wiring diagram
+<img src= "../control/wiring/Optobot Wiring diagram.png" width = "1200"> 
+
+## PID box wiring diagram
+<img src= "../control/wiring/Wiring diagram PID box.png" width = "1200"> 
