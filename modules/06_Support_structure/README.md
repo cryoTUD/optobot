@@ -1,7 +1,6 @@
 # 06 Support structure
 The support structure is fully created from Item components. The assembly consists of profiles of varying lengths that, when mounted together, build up the entire support structure. The main function of the support structure is to act as a stable base onto which the rest of the parts and assemblies are mounted. It mainly allows the climate chamber to be mounted above the cup assembly. Within this ReadMe an overview will be provided of how the support structure is built. The following will be discussed:
-- General overview of the structure
-- Exploded view with parts list
+- General overview of the structure with supporting parts list
 - Assembly animation
 - Connection drawing
 
