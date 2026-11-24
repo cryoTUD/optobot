@@ -14,7 +14,7 @@ The Control box and placeholders for all the Electronic components are created i
 
 An exploded view is created of the Control box, with a parts list beside it indicating all the parts used within the control box. All the part numbers refer back to the [BOM](../BOM), where more detailed information can be found about all the parts. The full assembly drawing can be found inside the Assembly folder. 
 
-<img width="861" height="757" alt="image" src="https://github.com/user-attachments/assets/51eb20b6-43f6-4876-8ade-3b873be590d2" />
+<img width="1002" height="720" alt="image" src="https://github.com/user-attachments/assets/82eb43ee-1afa-43ca-b72e-f2341dbe62b6" />
 
 The Control Box bottom (00-01) and Control Box Top (00-02) are designed in such a way that all the electronics can be nicely mounted into the 3d box structures. To show how all the parts are then fitted, a picture was created of the bottom side of the box with all the electronics that are mounted on it. A similar picture was created of the inside of the top lid with all the electronics that are mounted on it. Together, these pictures show how all the electrical components are placed inside the box.
 
